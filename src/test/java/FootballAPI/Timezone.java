@@ -6,7 +6,7 @@ import static io.restassured.RestAssured.*;
 public class Timezone {
 
     @Test
-    public void Timezone(){
+    public void FTimezone(){
 
         String apiKey = "781dbb368amsh76aa4477e882173p1255a3jsn3757c2d59020"; // RapidAPI key
 
